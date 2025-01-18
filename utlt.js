@@ -3,3 +3,4 @@ const generate RandomNumber()=>{
 
 }
 module.export=generateRandomNumbers;
+//demo
